@@ -22,4 +22,4 @@ Your goal is to determine which combination of prompting technique + platform pr
 
 OUTPUT:
 
-RESULT:Thus the scenories of the experiment is executed successfully
+RESULT:Thus the scenarios of the experiment executed successfully
